@@ -17289,7 +17289,7 @@ fragment PriceFragment on Price {
               </elementProp>
               <elementProp name="instrumentationKey" elementType="Argument">
                 <stringProp name="Argument.name">instrumentationKey</stringProp>
-                <stringProp name="Argument.value">1feea991-5585-42e5-83e4-071bc720b906</stringProp>
+                <stringProp name="Argument.value">d3e497af-cde0-4fd4-82e5-1ab68a82a240</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
               <elementProp name="liveMetrics" elementType="Argument">
